@@ -722,6 +722,7 @@ router.post("/cashOnDelivery", auth, (req, res) => {
                       Thanks @ Regards<br>
                       <h3> Sumit Singh Chauhan</h3></p>`
         };
+        
         transporter.sendMail(mailOptions, function (error, info) {
             if (error) {
                 console.log(error);
