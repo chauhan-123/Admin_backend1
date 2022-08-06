@@ -24,7 +24,7 @@
     "nodemailer": "^6.3.0",
     "nodemailer-smtp-transport": "^2.7.4",
     "nodemon": "^1.19.2",
-    "otp-generator": "^1.1.0",
+    "otp-generator": "^3.0.0",
     "path": "^0.12.7",
     "pincode": "^1.0.0",
     "save": "^2.4.0",
